@@ -9,5 +9,6 @@
     </transformer>
     <files>
         <directory>src</directory>
-    </files>
+        <directory>vendor/anax</directory>
+        </files>
 </phpdoc>
